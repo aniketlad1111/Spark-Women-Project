@@ -39,6 +39,3 @@ Hit Run Button !
 ```
 
 ------------
-
-
-**Free Software, Hello Yeah!**
